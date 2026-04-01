@@ -40,6 +40,17 @@ I’m not sure if other versions are supported.
 - Keehea918
 ```
 
+## 🌙 Nightly Build
+```yml
+Nightly Build: #5
+
+Module:
+- Toggle Anchor
+
+Log:
+Fix Description and make it very faster 0.05 > 0.04
+```
+
 ## ⚙️ Modules
 | **Modules**      | **Description**                                                                       |
 |:----------------:|:-------------------------------------------------------------------------------------:|
