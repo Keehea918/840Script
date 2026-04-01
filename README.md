@@ -8,7 +8,7 @@
     <td>
       <b>CrystalRush - ClickCrystal (CC)</b>
       <p> This project was created to share open-source scripts related to Click Crystal (CC)</p>
-      <p>Developed by keehea918</p>
+      <p>Developed by @keehea918</p>
     </td>
   </tr>
 </table>
@@ -47,3 +47,6 @@ I’m not sure if other versions are supported.
 | Auto Hit Crystal | Targets **End Crystals** and automatically attacks them.                              |
 | Toggle Pearl     | Press R to throw a pearl.                                                             |
 | Toggle Anchor    | Press C to place the anchor, then switch to Glowstone, switch to a totem, and use it. |
+
+## 🌐 Contect
+Discord : `Soon.`
