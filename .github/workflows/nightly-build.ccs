@@ -1,1 +1,8 @@
-hehe
+// Made by @keehea918 & @li1Carr0t
+// Nightly Build
+// Change keybind at "key_press C"
+
+def module Toggle-Anchor
+def desc "Press C to place the anchor, then switch to Glowstone, switch to a totem, and use it."
+
+on key_press C if playing switch #anchor then input right then wait 0.04 then switch #glowstone then input right then wait 0.04 then switch #totem then input right
