@@ -1,8 +1,31 @@
 // Made by @Keehea918 & @li1Carr0t
-// Nightly Build by @Keehea918
-// Change keybind at "key_press C"
+// Nightly Build
+// Change keybing at "key_press q"
 
-def module Toggle-Anchor
-def desc "Press C to place the anchor, then switch to Glowstone, switch to a totem, and use it."
+def module Toggle-totem
+def desc "Automatically replenishes your totems in your inventory"
 
-on key_press C if playing switch #anchor then input right then wait 0.04 then switch #glowstone then input right then wait 0.04 then switch #totem then input right
+on totem_pop {
+   if inventory_has #totem {
+      if_not input_active inventory {
+         input inventory
+      }
+      wait 0.05 if input_active inventory {
+         gui_swap #totem
+         wait 0.2 if input_active inventory {
+            input inventory
+         }
+      }
+   }
+}
+
+on key_press q if playing if_not off_holding #totem {
+   if inventory_has #totem {
+      wait 0.05 if input_active inventory {
+         gui_swap #totem
+         wait 0.2 if input_active inventory {
+            input inventory
+         }
+      }
+   }
+}
