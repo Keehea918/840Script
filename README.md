@@ -8,7 +8,7 @@
     <td>
       <b>CrystalRush - ClickCrystal (CC)</b>
       <p> This project was created to share open-source scripts related to Click Crystal (CC)</p>
-      <p>Developed by @keehea918</p>
+      <p>Owner by @keehea918</p>
     </td>
   </tr>
 </table>
@@ -49,4 +49,10 @@ I’m not sure if other versions are supported.
 | Toggle Anchor    | Press C to place the anchor, then switch to Glowstone, switch to a totem, and use it. |
 
 ## 🌐 Contect
-Discord : `Soon.`
+**Discord**    
+`Owner : 🔒 Hidden`    
+`Develoepr : @840.0hz`    
+
+**GitHub**    
+**[🔮 CrystalRush](https://github.com/keehea918/CrystalRush)**    
+**[🥕 CarrotClient](https://github.com/li1Carr0t/CarrotClient)**
