@@ -26,13 +26,11 @@
 ## 📜 Changelog 
 
 ```yml
-Release: 1.0.1
+Release: 1.0.2
 
 Modules:
-- Fast Crystal
-- Auto Hit Crystal
-- Toggle Pearl
-- Toggle Anchor
+- Fix Fast Crystal Faster
+- Fix Toggle Anchor Faster
 
 Note:
 ClickCrystal 1.21.5 (1.3.2)
