@@ -50,6 +50,9 @@ Module:
 Log:
 Fix Description and make it very faster 0.05 > 0.04
 
+Note:
+ClickCrystal 1.21.5 (1.3.2)
+
 Update by Keehea918
 ```
 
