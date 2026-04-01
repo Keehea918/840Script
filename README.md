@@ -37,7 +37,7 @@ Modules:
 Note:
 ClickCrystal 1.21.5 (1.3.2)
 I’m not sure if other versions are supported.
-- keehea918
+- Keehea918
 ```
 
 ## ⚙️ Modules
